@@ -47,7 +47,7 @@ def stop_motors():
     motor_b1.off()
     motor_b2.off()
 
-# Example usage
+# usage of bot
 while True:
     move_forward(10)  # movemnt in secs
     turn_left(5)     
